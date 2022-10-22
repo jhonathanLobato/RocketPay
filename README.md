@@ -8,8 +8,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-vercel">Vercel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-vercel">Vercel</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -56,10 +55,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Publicado no VERCEL
 <a href=""><img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
