@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="github/Captura de tela de 2022-10-22 11-42-15.png" width="100%">
 </p>
 
 ---
