@@ -55,7 +55,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ---
 
 ## Publicado no VERCEL
-<a href="https://explorer-lab-01-gilt.vercel.app/"><img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href=""><img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ## :memo: Licença
 
